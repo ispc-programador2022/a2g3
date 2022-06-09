@@ -1,5 +1,7 @@
 # a2g3
-a2g3-a2g3-a2g3 created by GitHub Classroom
-Hola aca Carolina.
-Hola acá Raimundo. Cambié el nombre del grupo por a2g3 para evitar la tartamudez ☻
-Hola, aca Emiliano. 
+
+AULA2 - GRUPO3 - TSCDIA
+
+PRODUCT OWNER - EMILIANO BLANCO
+SCRUM MASTER - CAROLINA BOLATTI
+DEVELOPERS - ACA "PROLIJAMENTE" VAYAN PONIENDO SUS NOMBRES (no se olviden que cualquier cambio que hagan deben hacerlo en sus ramas y luego subirlo para que yo haga el merge)
