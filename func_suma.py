@@ -7,3 +7,5 @@ def suma():
     print ("El resultado de la suma es " + str(suma))
     
 suma()
+
+##### Fin ejercicio 1
