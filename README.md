@@ -7,8 +7,8 @@ AULA2 - GRUPO3 - TSCDIA
 
 * SCRUM MASTER - CAROLINA BOLATTI
 
-* DEVELOPERS - ACA "PROLIJAMENTE" VAYAN PONIENDO SUS NOMBRES (no se olviden que cualquier cambio que hagan deben hacerlo en sus ramas y luego subirlo para que yo haga el merge)
-Bidart, Mónica Graciela
+* DEVELOPERS - 
+    *   Bidart, Mónica Graciela
 
 
 * Vayan volcando todos los ejercicios dentro de la carpeta sprint1 asi tenemos un orden 
