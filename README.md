@@ -1,4 +1,3 @@
-=======
 # a2g3
 
 AULA2 - GRUPO3 - TSCDIA
