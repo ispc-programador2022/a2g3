@@ -8,6 +8,7 @@ AULA2 - GRUPO3 - TSCDIA
 
 * DEVELOPERS - 
     *   Bidart, Mónica Graciela
+    *   Bellesi, Filomena Hebe
 
 
 * Vayan volcando todos los ejercicios dentro de la carpeta sprint1 asi tenemos un orden 
