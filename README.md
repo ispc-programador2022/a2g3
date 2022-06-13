@@ -11,6 +11,7 @@
 * DEVELOPERS - 
     *   Bidart, Mónica Graciela
     *   Bellesi, Filomena Hebe
+    *   Bordi, Candela Soledad 
 
 
 * Vayan volcando todos los ejercicios dentro de la carpeta sprint1 asi tenemos un orden 
