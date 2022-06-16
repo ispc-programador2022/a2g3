@@ -6,13 +6,18 @@
 
 * PRODUCT OWNER - EMILIANO BLANCO
 
-* SCRUM MASTER - CAROLINA BOLATTI & RAIMUNDO BARAVAGLIO
+* SCRUM MASTER - M. CAROLINA BOLATTI C. & RAIMUNDO BARAVAGLIO
 
 * DEVELOPERS - 
-    *   Bidart, Mónica Graciela
+    *   Belén, Esteban
+    *   Belén, Francisco
     *   Bellesi, Filomena Hebe
-    *   Bordi, Candela Soledad 
+    *   Benitez, Ricardo Gabriel Alejandro
+    *   Benitez Ovelar, Daniel
+    *   Bidart, Mónica Graciela
+    *   Bocanegra, Oscar Alberto
+    *   Bordi, Candela Soledad   
 
 
-* Vayan volcando todos los ejercicios dentro de la carpeta sprint1 asi tenemos un orden 
+* Vayan volcando todos los ejercicios dentro de la carpeta sprint2 asi tenemos un orden 
 >>>>>>> f4f6ad57da6e39a1d74a18555b22e52d5168d25c
