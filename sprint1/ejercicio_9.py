@@ -3,8 +3,9 @@
 
 from func_producto import producto
 
-def fun_p1 (a, b, c):
-       return producto (a,b)+c
+def produc_sum (p1, p2, p3):
+    var=producto.producto(p1,p2)+p3
+    return var
   
 
     
